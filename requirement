@@ -1,0 +1,19 @@
+# Library Inventory Manager - Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python Version Requirement
+python>=3.6
+
+# Standard Library Dependencies (for documentation purposes)
+# These modules are part of Python standard library:
+
+# os - Operating system interfaces
+# sys - System-specific parameters and functions
+# logging - Logging facility
+# unittest - Unit testing framework
+# tempfile - Generate temporary files and directories (for tests)
+# typing - Support for type hints
+
+# No additional packages need to be installed via pip
+# The project runs with Python's built-in modules only
