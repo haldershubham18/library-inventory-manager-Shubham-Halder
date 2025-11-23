@@ -18,3 +18,7 @@ library-inventory-manager/
 ├── tests/ # Unit tests
 ├── books.txt # Data storage file
 └── README.md # library-inventory-manager-Shubham-Halder
+
+## Sample Output
+<img width="1900" height="939" alt="image" src="https://github.com/user-attachments/assets/cd4bc6c9-bf18-4986-83ce-a7996503fab3" />
+
